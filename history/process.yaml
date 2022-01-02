@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS01SLBS-LJ01A-05-HPIESA101-streamed-horizontal_electric_field
 data_stream: RS01SLBS-LJ01A-05-HPIESA101-streamed-horizontal_electric_field
 end_date: '2022-01-01T01:57:23.239Z'
-last_updated: '2022-01-01T23:48:07.156972Z'
+last_updated: '2022-01-02T00:01:37.904749'
 start_date: '2014-08-28T23:40:49.335Z'
-status: pending
+status: success
