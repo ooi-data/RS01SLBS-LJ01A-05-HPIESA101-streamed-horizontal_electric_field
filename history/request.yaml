@@ -1,5 +1,5 @@
-data_ready: false
+data_ready: true
 data_stream: RS01SLBS-LJ01A-05-HPIESA101-streamed-horizontal_electric_field
 last_request: '2022-02-07T18:09:14.559984Z'
 response: https://raw.githubusercontent.com/ooi-data/RS01SLBS-LJ01A-05-HPIESA101-streamed-horizontal_electric_field/main/history/response.json
-status: pending
+status: success
